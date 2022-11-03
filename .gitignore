@@ -5,3 +5,4 @@
 /test/smoke/vite/dist/**
 /test/smoke/parcel/dist/**
 /test/smoke/parcel/.cache/**
+.DS_Store
